@@ -235,3 +235,5 @@ if (MV_OK != nRet)
 **[Ubuntu 20.04源码编译安装OpenCV 4.7.0_/usr/bin/ld: /home/ubuntu/miniconda3/envs/torch_ts-CSDN博客](https://blog.csdn.net/weixin_43863869/article/details/128552342)**
 
 **MachineVisionCamera SDK（C）DeveloperGuide_V3.1.0（海康相机驱动之后安装自带的开发手册）**
+
+[Ubuntu环境下VScode配置OpenCV的C++开发环境_ubuntu vscode c++ opencv 编译执行-CSDN博客](https://blog.csdn.net/sunzhao1000/article/details/103185875/)
